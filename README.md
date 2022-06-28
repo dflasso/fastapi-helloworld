@@ -20,4 +20,4 @@ Acceder a la documentación interactiva con Swagger UI:
 Acceder a la documentación interactiva con Redoc:
 {localhost}/redoc
 
-## Más información [aquí](https://hackmd.io/@duvanbotello/rk8vjxCrt)
+## Más información [aquí](http://localhost:8000/redoc#operation/home__get)
